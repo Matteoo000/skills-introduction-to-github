@@ -42,11 +42,11 @@ If you'd like to make a profile README, use the quickstart instructions below or
 5. Lastly, we'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github).
 
 Check out these resources to learn more or get involved:
-
+wewewew
 - Are you a student? Check out the [Student Developer Pack](https://education.github.com/pack).
 - [Take another GitHub Skills course](https://github.com/skills).
 - [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).  
 
 <footer>
 
